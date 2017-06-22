@@ -6,7 +6,7 @@ HTML/CSS Mini-Project (http://www.theodinproject.com/web-development-101/html-cs
 Goals: 
 Practice fundamental HTML/CSS by recreating the appearance of Google homepage.  Use of web developer tools will kept to a minimum and utilized only for small details.  
 
-/*************************************************
+/************************************************
 Instructions: 
 [Easy Version: Build the Google.com homepage
 (the simple one with just a search box).
@@ -22,7 +22,7 @@ Next do the navbar across the top, first building the content and then trying to
 Finally, put in the footer, which should be very similar to the top navbar.
 In general, do as much on your own as you can before relying on the developer tools (or viewing the page's source code) to help you along.
 Push your project to Github using the instructions above!
-*************************************************/
+************************************************/
 
 Files and Folders: 
 index.html: 
